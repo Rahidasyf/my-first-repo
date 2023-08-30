@@ -1,7 +1,11 @@
-Nama    : Rahida Syafa Nurdya
+Nama     : Rahida Syafa Nurdya
 
-NPM     : 2206829023
+NPM      : 2206829023
 
-Kelas   : PBP B
+Kelas    : PBP B
 
-Hobi    : Nonton Drachin
+Hobi     : Nonton Drachin
+
+Jurusan  : Sistem Informasi
+
+Angkatan : 2022
